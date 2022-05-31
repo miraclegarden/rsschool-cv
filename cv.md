@@ -15,7 +15,7 @@ I am 24. From an early age, I was interested in the profession of a programmer. 
 Previously, I worked in a bank as a credit manager for small and medium-sized businesses, then as a specialist in a government organization.
 
 ## Skills
-* HTML/CSS
+* HTML&CSS
 * JavaScript
 * VS Code
 * Git/GitHub
