@@ -8,8 +8,11 @@ I am 24. From an early age, I was interested in the profession of a programmer. 
 
 
 ***github/dis:*** @miraclegarden
+
 ***email:*** mika.amantaikuzu@gmail.com
+
 ***loc.:*** Aktau, Kazakhstan
+
 ***tg:*** @merumerum
 
 ## Experience
